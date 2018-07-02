@@ -1,3 +1,3 @@
-# randostartrek
+# randofrasier
 a silly bot written in tracery JSON running on http://cheapbotsdonequick.com
-You can follow it on twitter https://twitter.com/randostartrek
+You can follow it on twitter https://twitter.com/randofrasier
