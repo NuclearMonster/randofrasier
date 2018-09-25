@@ -1,6 +1,6 @@
 {
 	"origin": [
-		"#frasierintro# #frasierperson# #frasierthings# #frasierreason#"
+		"#frasierintro# #frasierperson# and #sideperson# #frasierthings# #frasierreason#",
 		"#frasierintro# #frasierperson# #frasierthings# #frasierreason#"
 	],
 	"frasierintro": [
@@ -30,7 +30,7 @@
 	
 	"frasierthings": [
 		"is caught in a time bubble",
-		"Meets" "#sideperson#"
+		"meets" "#sideperson# at Café Nervosa"
 		"has their regular at Café Nervosa"
 		
 	],
